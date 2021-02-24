@@ -4,7 +4,6 @@ import DefaultLayout from './layouts/Default';
 import About from './pages/About';
 
 
-
 import React from "react";
 import {
   BrowserRouter as Router,
