@@ -1,0 +1,10 @@
+// Override default variables before the import
+$body-bg: rgb(139, 139, 139);
+
+$carousel-control-color: gray;
+$carousel-caption-color: gray;
+$carousel-indicator-active-bg: gray;
+
+
+// Import Bootstrap and its default variables
+@import '~bootstrap/scss/bootstrap.scss';
